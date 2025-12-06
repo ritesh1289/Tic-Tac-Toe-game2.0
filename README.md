@@ -36,4 +36,5 @@ Take turns as **X** or **O**, and try to get three in a row before your opponent
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone
+          https://github.com/ritesh1289/Tic-Tac-Toe-game2.0
